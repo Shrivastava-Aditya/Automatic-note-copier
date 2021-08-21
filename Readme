@@ -1,0 +1,6 @@
+Enter "python check1.py" in the commandline where the file exists.
+Enter the ".txt" file you want to copy.
+Enter the desired speed in millieseconds.
+Click on the region you wish to type in.
+
+Note : since the time of delay between taking input and execution is 4 seconds you must click the typing zone after giving the input in 4 seconds or it will start to type in wrong place.
